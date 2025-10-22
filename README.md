@@ -42,26 +42,35 @@ This project demonstrates end-to-end machine learning pipeline development, from
 - **Interface**: Gradio
 - **Development**: Google Colab, Jupyter Notebook
 
-## 📁 Project Structurenews-categorization-ai/
+## 📁 Project Structure
+news-categorization-ai/
+│
 ├── README.md                          # Project documentation
 ├── requirements.txt                   # Python dependencies
-├── notebooks/
+├── LICENSE                           # MIT License
+├── .gitignore                        # Git ignore rules
+├── PROJECT_SUMMARY.md                # Executive summary for recruiters
+│
+├── notebooks/                        # Jupyter notebooks for each phase
 │   ├── phase1_data_exploration.md    # EDA and baseline model
 │   ├── phase2_bert_training.md       # BERT model development
 │   ├── phase3_optimization.md        # DistilBERT comparison
 │   ├── phase4_evaluation.md          # Error analysis
 │   └── phase5_deployment.md          # Demo deployment
-├── src/
+│
+├── src/                              # Source code modules
 │   ├── data_preprocessing.py         # Data loading and preprocessing
 │   ├── model_training.py             # Training pipeline
 │   ├── model_evaluation.py           # Evaluation metrics
 │   └── inference.py                  # Prediction functions
-├── demo/
+│
+├── demo/                             # Demo application
 │   └── app.py                        # Gradio demo application
-└── results/
-├── confusion_matrices/           # Confusion matrix visualizations
-├── error_analysis/               # Misclassification examples
-└── performance_reports/          # Detailed metrics
+│
+└── results/                          # Output files and visualizations
+    ├── confusion_matrices/           # Confusion matrix visualizations
+    ├── error_analysis/               # Misclassification examples
+    └── performance_reports/          # Detailed metrics
 
 ## 🚀 Getting Started
 
