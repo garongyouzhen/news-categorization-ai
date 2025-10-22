@@ -42,10 +42,9 @@ streamlit run app.py
 - Real-time inference system
 
 ## 👨‍💻 Author
-**[Your Name]**
-- LinkedIn: [Your LinkedIn]
-- Email: your.email@example.com
-- Portfolio: [Your Website]
+**[GARONGYOUZHEN]**
+- LinkedIn: [https://www.linkedin.com/in/garong-youzhen-6891b6a3/]
+- Email: fg2472@columbia.edu
 
 ## 📝 License
 MIT License - feel free to use for your own projects!
