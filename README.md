@@ -75,20 +75,20 @@ news-categorization-ai/
 ## 🚀 Getting Started
 
 ### Prerequisites
-```bashPython 3.8 or higher
+bashPython 3.8 or higher
 pip (Python package manager)
 
 ### Installation
 
 1. **Clone the repository**
-```bashgit clone https://github.com/YOUR_USERNAME/news-categorization-ai.git
+bashgit clone https://github.com/YOUR_USERNAME/news-categorization-ai.git
 cd news-categorization-ai
 
 2. **Install dependencies**
-```bashpip install -r requirements.txt
+bashpip install -r requirements.txt
 
 3. **Download the dataset**
-```bashAG News dataset will be automatically downloaded when running the notebook
+bashAG News dataset will be automatically downloaded when running the notebook
 Or manually download from: https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset
 
 ### Quick Start
@@ -98,7 +98,7 @@ Or manually download from: https://www.kaggle.com/datasets/amananandrai/ag-news-
 - Follow the phase-by-phase guide from Phase 1 to Phase 5
 
 **Option 2: Run Locally**
-```bashStart Jupyter Notebook
+bashStart Jupyter Notebook
 jupyter notebookOr run the demo directly
 python demo/app.py
 
