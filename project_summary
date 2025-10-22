@@ -1,0 +1,69 @@
+# News Categorization AI - Executive Summary
+
+## 🎯 Project Goal
+Built an AI system that automatically categorizes news articles into 4 topics (World, Sports, Business, Technology) with 90%+ accuracy.
+
+## 💼 Business Impact
+- **95% reduction** in manual classification time
+- **60% cost savings** through model optimization
+- **50+ articles/second** processing capability
+- **Real-time predictions** with confidence scoring
+
+## 🔧 Technical Highlights
+
+### Models Developed
+1. **BERT Model**: 92% accuracy, 45ms inference
+2. **DistilBERT Model**: 90.5% accuracy, 18ms inference (production deployment)
+
+### Key Achievements
+- Fine-tuned transformer models on 120,000 articles
+- Conducted comprehensive A/B testing (BERT vs DistilBERT)
+- Implemented confidence-based quality control (95% precision threshold)
+- Deployed interactive demo with batch processing capabilities
+
+## 📊 Results Summary
+
+| Metric | Value |
+|--------|-------|
+| Overall Accuracy | 92% (BERT), 90.5% (DistilBERT) |
+| Speed Improvement | 2.5x faster with DistilBERT |
+| Cost Reduction | 60% lower inference costs |
+| Model Size | 40% smaller (DistilBERT) |
+| Articles Processed | 7,600 test samples |
+
+## 🛠️ Technology Stack
+- **Languages**: Python
+- **ML Frameworks**: PyTorch, Transformers (Hugging Face)
+- **Models**: BERT, DistilBERT
+- **Tools**: Pandas, scikit-learn, Gradio, Matplotlib
+- **Platform**: Google Colab
+
+## 📈 Development Process
+
+1. **Data Exploration** - EDA on 120K articles, baseline model (87%)
+2. **Model Development** - BERT fine-tuning (92% accuracy)
+3. **Optimization** - DistilBERT comparison (efficiency analysis)
+4. **Evaluation** - Confusion matrices, error analysis, threshold tuning
+5. **Deployment** - Interactive demo with batch processing
+
+## 🎓 Skills Demonstrated
+- Machine Learning & Deep Learning
+- Natural Language Processing
+- Transfer Learning & Fine-Tuning
+- Model Optimization & A/B Testing
+- Data Analysis & Visualization
+- Software Engineering & Documentation
+- Production Deployment
+
+## 📝 Key Learnings
+- **Model Selection**: Quantified accuracy vs. efficiency trade-offs
+- **Error Analysis**: Identified Business-Technology overlap as main challenge
+- **Production Readiness**: Implemented human-in-the-loop for low-confidence cases
+- **Scalability**: Optimized for real-world deployment constraints
+
+## 🔗 Links
+- **GitHub Repository**: [https://github.com/garongyouzhen/news-categorization-ai/new/main]
+- **Detailed Documentation**: See README.md
+- **Code Notebooks**: https://colab.research.google.com/drive/1T0eUiLxaGuodFo9-z8gRn-KPJU5WH_Tp?usp=sharing
+
+**Contact**: fg2472@columbia.edu | https://www.linkedin.com/in/garong-youzhen-6891b6a3 
